@@ -1,0 +1,32 @@
+body{
+	font-family: sans-serif;
+	margin: 34px;
+	border: 6px solid black;
+	text-align: center;
+}
+p{
+	font-weight: bold;
+	font-size: 25px;
+	letter-spacing: 1.1px;
+}
+li{
+	text-align: justify-all;
+	font-weight: bold;
+	letter-spacing: 1.1px;
+}
+hr{
+	border: solid black;
+}
+
+button {
+  display: inline-block;
+  margin: 1em 1em;
+  font-size: 2em;
+  cursor: pointer;
+}
+
+video {
+  border: 1px solid lightgray;
+  width: 70%;
+  background-color: #eee;
+}
